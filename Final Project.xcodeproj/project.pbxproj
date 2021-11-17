@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F21EB19C273D8E6400AEA3E5 /* Page9.swift in Sources */ = {isa = PBXBuildFile; fileRef = F21EB19B273D8E6400AEA3E5 /* Page9.swift */; };
 		F22632C3272B14150045A90F /* Page8.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22632C2272B14150045A90F /* Page8.swift */; };
 		F232760826FCE43300824D47 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F232760726FCE43300824D47 /* AppDelegate.swift */; };
 		F232760A26FCE43300824D47 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F232760926FCE43300824D47 /* SceneDelegate.swift */; };
@@ -18,11 +19,13 @@
 		F232D7FA2727270600EA6A51 /* Screencontroller5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F232D7F92727270600EA6A51 /* Screencontroller5.swift */; };
 		F232D7FC2727274E00EA6A51 /* ScreenController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = F232D7FB2727274E00EA6A51 /* ScreenController6.swift */; };
 		F232D7FE272727AF00EA6A51 /* Screencontroller7.swift in Sources */ = {isa = PBXBuildFile; fileRef = F232D7FD272727AF00EA6A51 /* Screencontroller7.swift */; };
+		F23342E4274570CA00DF6B0B /* Screen10.swift in Sources */ = {isa = PBXBuildFile; fileRef = F23342E3274570CA00DF6B0B /* Screen10.swift */; };
 		F26C3F262721D7F900915B9D /* ControllerNumber3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F26C3F252721D7F900915B9D /* ControllerNumber3.swift */; };
 		F26C3F282721D87C00915B9D /* ControllerNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F26C3F272721D87C00915B9D /* ControllerNumber2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F21EB19B273D8E6400AEA3E5 /* Page9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page9.swift; sourceTree = "<group>"; };
 		F22632C2272B14150045A90F /* Page8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page8.swift; sourceTree = "<group>"; };
 		F232760426FCE43300824D47 /* Final Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Final Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F232760726FCE43300824D47 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +39,7 @@
 		F232D7F92727270600EA6A51 /* Screencontroller5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screencontroller5.swift; sourceTree = "<group>"; };
 		F232D7FB2727274E00EA6A51 /* ScreenController6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenController6.swift; sourceTree = "<group>"; };
 		F232D7FD272727AF00EA6A51 /* Screencontroller7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screencontroller7.swift; sourceTree = "<group>"; };
+		F23342E3274570CA00DF6B0B /* Screen10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen10.swift; sourceTree = "<group>"; };
 		F26C3F252721D7F900915B9D /* ControllerNumber3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllerNumber3.swift; sourceTree = "<group>"; };
 		F26C3F272721D87C00915B9D /* ControllerNumber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllerNumber2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -74,6 +78,8 @@
 				F232760926FCE43300824D47 /* SceneDelegate.swift */,
 				F232760B26FCE43300824D47 /* ViewController.swift */,
 				F232760D26FCE43300824D47 /* Main.storyboard */,
+				F23342E3274570CA00DF6B0B /* Screen10.swift */,
+				F21EB19B273D8E6400AEA3E5 /* Page9.swift */,
 				F22632C2272B14150045A90F /* Page8.swift */,
 				F232D7FD272727AF00EA6A51 /* Screencontroller7.swift */,
 				F232D7FB2727274E00EA6A51 /* ScreenController6.swift */,
@@ -160,6 +166,7 @@
 			files = (
 				F26C3F282721D87C00915B9D /* ControllerNumber2.swift in Sources */,
 				F232760C26FCE43300824D47 /* ViewController.swift in Sources */,
+				F21EB19C273D8E6400AEA3E5 /* Page9.swift in Sources */,
 				F232760826FCE43300824D47 /* AppDelegate.swift in Sources */,
 				F232D7FE272727AF00EA6A51 /* Screencontroller7.swift in Sources */,
 				F232D7FA2727270600EA6A51 /* Screencontroller5.swift in Sources */,
@@ -167,6 +174,7 @@
 				F26C3F262721D7F900915B9D /* ControllerNumber3.swift in Sources */,
 				F232760A26FCE43300824D47 /* SceneDelegate.swift in Sources */,
 				F232D7F8272724DF00EA6A51 /* Screenconroller4.swift in Sources */,
+				F23342E4274570CA00DF6B0B /* Screen10.swift in Sources */,
 				F22632C3272B14150045A90F /* Page8.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
